@@ -18,6 +18,6 @@ when you are in the city .. set a way point on your map .. then do /autopilot
 this works if your on foot or in a car  :) 
 
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++
-++ This script is made by itsBucko aka BM-customs ++ 
-++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+This script is made by itsBucko aka BM-customs
+
